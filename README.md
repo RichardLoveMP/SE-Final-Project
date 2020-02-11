@@ -82,16 +82,7 @@ In order to **TEST** the Junit or Selenium test in the website, we use the follo
 $ mvn test
 ```
 
-## 5. Final Thoughts of this Project
-
- During this project, we met every weeks to check the progress of each group member. Instead of doing everything individually, we divide our group into several small groups, which is an efficient action. More importantly, this project simulates the real office scenarios which provides precious experience before the start of our careers. During this project, I know how to manage a huge project by using Maven. Before I took this course, I have only managed project less than 30 files. However, in this project, hundreds of files are managed successfully by our team. In fact, I learned that cooperation is vital while doing this project. A team should maximize its efficiency by moving every teammates to the right position. Fortunately, I think our group has done it successfully.  
-  
-   Besides that, I have also learned many practical thing such as integrating SQL into Java project, how to modify the Javascript file and how to draw graphs in the website. Those things will help me a lot in the future.  
-   
-   In a word, I really enjoy this project, and I really cherish the experience that I have learned during this final project.
-  
-
-## 6. LEGAL
+## 5. LEGAL
 -----
 Permission to use, copy, modify, and distribute this software and its
 documentation for any purpose, without fee, and without written agreement is
