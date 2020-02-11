@@ -63,19 +63,20 @@ $ sudo apt-get install maven
 
 **Website Manager:** By using **TOMCAT 7**  
 In order to **BUILD** the project, we use the following instruction:
+
 ```
 $ mvn package
-```. 
+```
 
 In order to **ACTIVATE** the website, we use the following instruction:
 ```
 $ mvn tomcat7:redeploy
-```. 
+```
 
 In order to **CLEAR** the cache in website, we use the following instruction:
 ```
 $ mvn clean
-```. 
+```
 
 In order to **TEST** the Junit or Selenium test in the website, we use the following instruction:
 ```
