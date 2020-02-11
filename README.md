@@ -1,6 +1,7 @@
 # Website Builder Inclass Project
 ## **Developing a Software Engineering Website (iTrust)**
-
+* Update Reminder: For Github Alert, I have changed the iTrust/pom.xml's commons-file dependency from 1.3 to 1.4.*
+* If version 1.4 cannot be activated, please change back to 1.3 *
 
 ## 1. Basic Logistics and Project Overview
 ###  **Project Logistics**:
