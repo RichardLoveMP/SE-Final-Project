@@ -80,7 +80,7 @@ $ mvn clean
 In order to **TEST** the Junit or Selenium test in the website, we use the following instruction:
 ```
 $ mvn test
-```. 
+```
 
 ## 5. Final Thoughts of this Project
 
